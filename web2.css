@@ -1,0 +1,151 @@
+.header {
+	color: #7e7e7e;
+	font-family: 'Garamond';
+	font-size: 2.2em;
+	line-height: .8;
+	
+	margin-bottom: 35px;
+	position: absolute;
+	border-bottom: 1px solid #ccc;
+	
+	
+}
+
+h4 {
+	font-family: 'Bookman';
+	color: #3c0;
+	text-transform: uppercase;
+}
+
+p {
+	color: black;
+}
+
+.line_right {
+	border-bottom: 1px solid #ccc;
+	height: 53px;
+	width: 456px;
+	float: right;
+	position: relative;
+	margin-top: 50px;
+	margin-right: 20px;
+	
+}
+
+body {
+	background-color: #F8F9F9;
+}
+
+.reg-box.can {
+	margin-left: 750px;
+	margin-right: 500px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-size: 15px;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	text-align: center;
+	position: relative;
+	right: 600px;
+	bottom: 450px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+.reg-box.eu {
+	margin-left: 700px;
+	margin-right: 500px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: 290px;
+	bottom: 460px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+.reg-box.asia {
+	margin-left: 750px;
+	margin-right: 500px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: 80px;
+	bottom: 450px;
+	padding: 5px;
+	display: inline-flex;
+	
+}
+
+.reg-box.africa {
+	margin-left: 700px;
+	margin-right: 400px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: 200px;
+	bottom: 430px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+.reg-box.brazil {
+	margin-left: 700px;
+	margin-right: 500px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: 420px;
+	bottom: 400px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+.reg-box.latin {
+	margin-left: 700px;
+	margin-right: 500px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: 440px;
+	bottom: 370px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+.reg-box.australia {
+	margin-left: 700px;
+	margin-right: 400px;
+	border: 1px solid black;
+	background-color: #FDFEFE;
+	font-family: 'alternate_gothic_fs_no_3Rg';
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+	right: -70px;
+	bottom: 415px;
+	padding: 5px;
+	display: inline-flex;
+}
+
+a:link {
+	color: #3c0;
+}
+
+a:visited {
+	color: #3c0;
+}
